@@ -1,11 +1,2 @@
- Volume in drive C is DSK2_VOL1
- Volume Serial Number is F29B-33A0
 
- Directory of C:\Users\user\Desktop\MyProject
-
-09/15/2017  12:00 PM    <DIR>          .
-09/15/2017  12:00 PM    <DIR>          ..
-09/15/2017  12:00 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)   2,631,303,168 bytes free
 I love u SwethaDarling
